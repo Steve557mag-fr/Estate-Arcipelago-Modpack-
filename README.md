@@ -1,6 +1,6 @@
 # Estate-Arcipelago-Modpack-
 C'est le git, pour télécharger la dernière version 
-*sus*
+*QUOICOUBEH*
 
 ## __Comment installer la dernière version du modpack ?__
 > 
