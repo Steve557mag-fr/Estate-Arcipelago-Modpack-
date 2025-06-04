@@ -5,9 +5,7 @@ C'est le git, pour télécharger la dernière version
 > 
 > (1) Assurez-vous de bien avoir installé [CurseForge](https://www.curseforge.com/download/app).
 >
-> (2) Rendez-vous sur le [Github Estate Arcipelago](https://github.com/Steve557mag-fr/Estate-Arcipelago-Modpack-).
->
-> (3) Cliquez sur la version la plus récentes, en dessous de "Releases" (Voir image).
+> (3) Allez dans "Releases" sur la droite de votre écran.
 >
 > (4) Téléchargez en cliquant sur l'archive `Estate.arcipelago_XXX.zip`.
 >
