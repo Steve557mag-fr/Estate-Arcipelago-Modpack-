@@ -7,13 +7,13 @@ This the git, to download the latest version
 > 
 > (1) Assurez-vous de bien avoir installé [CurseForge](https://www.curseforge.com/download/app).
 >
-> (3) Allez dans "Releases" sur la droite de votre écran.
+> (2) Allez dans "Releases" sur la droite de votre écran.
 >
-> (4) Téléchargez en cliquant sur l'archive `Estate.arcipelago_XXX.zip`.
+> (3) Téléchargez en cliquant sur l'archive `Estate.arcipelago_XXX.zip`.
 >
-> (5) Ouvrez CurseForge dans la catégorie "Minecraft" et cliquez sur `Import`.
+> (4) Ouvrez CurseForge dans la catégorie "Minecraft" et cliquez sur `Import`.
 >
-> (6) Sélectionnez l'archive téléchargée.
+> (5) Sélectionnez l'archive téléchargée.
 >
-> (7) Appuyez sur `Play` et rejoignez nous sur le serveur !
+> (6) Appuyez sur `Play` et rejoignez nous sur le serveur !
 >
